@@ -1,0 +1,13 @@
+{
+  "name": "snouz-big-substation",
+  "version": "1.0.0",
+  "title": "Big substation",
+  "author": "snouz",
+  "homepage": "https://github.com/snouz/snouz-big-substation",
+  "factorio_version": "2.0",
+  "description": "This mod adds a big substation of area 65x65, but a wire reach of 25.",
+  "dependencies": [
+    "base",
+    "? space-age"
+  ]
+}
