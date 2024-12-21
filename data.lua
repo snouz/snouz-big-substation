@@ -20,7 +20,8 @@ data:extend(
     drop_sound = item_sounds.electric_large_inventory_move,
     place_result = "big-substation",
     stack_size = 10,
-    random_tint_color = item_tints.iron_rust
+    random_tint_color = item_tints.iron_rust,
+    weight = 100 * kg
   },
 
   {
